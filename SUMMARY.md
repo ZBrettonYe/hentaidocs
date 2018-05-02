@@ -1,13 +1,15 @@
 # Table of contents
 
-* [文檔中心](README.md)
+* 文档中心
 * 使用教程
-  * [订阅地址](tutorial/ding-yue-di-zhi.md)
+  * [订阅地址](tutorial/sub_link.md)
   * Windows
-    * Untitled
+    * [标准版](tutorial/windows/std.md)
+    * 游戏版
   * MacOS
   * Android
   * iOS
-* Linux
-* 路由器
+  * Linux
+  * 路由器
+* 问题&解决
 
