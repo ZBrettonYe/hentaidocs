@@ -1,12 +1,12 @@
 # Table of contents
 
-* [紳士瞭望塔](docs/README.md)
+* [紳士瞭望塔](qiang-dong/README.md)
   * 使用教程
-    * [订阅地址 & 托管地址](docs/shi-yong-jiao-cheng/shi-yong-shou-ce.md)
+    * [订阅地址 & 托管地址](qiang-dong/shi-yong-jiao-cheng/shi-yong-shou-ce.md)
     * Windows
-      * [ShadowsocksR](docs/shi-yong-jiao-cheng/windows/untitled/README.md)
-        * [负载均衡](docs/shi-yong-jiao-cheng/windows/untitled/fu-zai-jun-heng-ip-cuo-luan.md)
-      * [SS-Tap（游戏/特殊）](docs/shi-yong-jiao-cheng/windows/sstap-you-xi-te-shu.md)
+      * [ShadowsocksR](docs/client_setup/windows/untitled/README.md)
+        * [负载均衡](docs/client_setup/windows/untitled/fu-zai-jun-heng-ip-cuo-luan.md)
+      * [SS-Tap（游戏/特殊）](docs/client_setup/windows/sstap-you-xi-te-shu.md)
     * macOS
       * [ShadowsocksR](docs/client_setup/macos/shadowsocksr-for-macos.md)
     * Android
