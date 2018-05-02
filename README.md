@@ -1,4 +1,4 @@
-# Introduction
+# 文檔中心
 
 * [紳士瞭望塔](https://github.com/ZBrettonYe/hentiadocs/tree/32c329db080add58c68bcedcab69f75469610a3b/docs/README.md)
   * 使用教程
