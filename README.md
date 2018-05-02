@@ -1,30 +1,30 @@
-# Table of contents
+# Introduction
 
-* [紳士瞭望塔](docs/README.md)
+* [紳士瞭望塔](https://github.com/ZBrettonYe/hentiadocs/tree/32c329db080add58c68bcedcab69f75469610a3b/docs/README.md)
   * 使用教程
-    * [订阅地址 & 托管地址](docs/shi-yong-jiao-cheng/shi-yong-shou-ce.md)
+    * [订阅地址 & 托管地址](https://github.com/ZBrettonYe/hentiadocs/tree/32c329db080add58c68bcedcab69f75469610a3b/docs/shi-yong-jiao-cheng/shi-yong-shou-ce.md)
     * Windows
-      * [ShadowsocksR](docs/shi-yong-jiao-cheng/windows/untitled/README.md)
-        * [负载均衡](docs/shi-yong-jiao-cheng/windows/untitled/fu-zai-jun-heng-ip-cuo-luan.md)
-      * [SS-Tap（游戏/特殊）](docs/shi-yong-jiao-cheng/windows/sstap-you-xi-te-shu.md)
+      * [ShadowsocksR](https://github.com/ZBrettonYe/hentiadocs/tree/32c329db080add58c68bcedcab69f75469610a3b/docs/shi-yong-jiao-cheng/windows/untitled/README.md)
+        * [负载均衡](https://github.com/ZBrettonYe/hentiadocs/tree/32c329db080add58c68bcedcab69f75469610a3b/docs/shi-yong-jiao-cheng/windows/untitled/fu-zai-jun-heng-ip-cuo-luan.md)
+      * [SS-Tap（游戏/特殊）](https://github.com/ZBrettonYe/hentiadocs/tree/32c329db080add58c68bcedcab69f75469610a3b/docs/shi-yong-jiao-cheng/windows/sstap-you-xi-te-shu.md)
     * macOS
-      * [ShadowsocksR](docs/client_setup/macos/shadowsocksr-for-macos.md)
+      * [ShadowsocksR]()
     * Android
-      * [ShadowsocksR](docs/client_setup/android/shadowsocksr-for-android.md)
+      * [ShadowsocksR]()
     * iOS
       * Shadowrocket
-        * [订阅模式](docs/client_setup/ios/shadowrocket/ding-yue-mo-shi.md)
+        * [订阅模式]()
         * 订阅模式（Workflow）
-      * [Quantumult](docs/client_setup/ios/quantumult.md)
+      * [Quantumult]()
       * Surge
-        * [托管模式](docs/client_setup/ios/surge/tuo-guan-mo-shi.md)
-        * [手动模式（Workflow）](docs/client_setup/ios/surge/worfklow-shou-dong-mo-shi.md)
+        * [托管模式]()
+        * [手动模式（Workflow）]()
     * 路由器
-      * [Merlin](docs/client_setup/lu-you-qi/merlin.md)
-      * [Padavan](docs/client_setup/lu-you-qi/padavan.md)
+      * [Merlin]()
+      * [Padavan]()
   * 通用
-    * [固定端口（端口复用）](docs/tong-yong/gu-ding-duan-kou-duan-kou-fu-yong.md)
-    * [监控面板](docs/tong-yong/jian-kong-mian-ban.md)
-    * [Telegram bot](docs/tong-yong/telegram-bot-bang-ding.md)
-    * [规则](docs/tong-yong/gui-ze.md)
+    * [固定端口（端口复用）]()
+    * [监控面板]()
+    * [Telegram bot]()
+    * [规则]()
 
