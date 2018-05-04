@@ -3,8 +3,9 @@
 * 文档中心
 * [使用教程](tutorial/README.md)
   * [订阅地址](tutorial/sub_link.md)
-  * Windows
+  * [Windows](tutorial/windows/README.md)
     * [标准版](tutorial/windows/std.md)
+    * 进阶版
     * 游戏版
   * MacOS
   * Android

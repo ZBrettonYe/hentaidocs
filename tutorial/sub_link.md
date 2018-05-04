@@ -12,5 +12,3 @@ description: 节点订阅服务：客户端可自动同步更新节点信息。
 
 ![](../.gitbook/assets/sublink.png)
 
-
-

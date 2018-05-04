@@ -20,6 +20,8 @@
 
 {% page-ref page="windows/std.md" %}
 
+{% page-ref page="./" %}
+
 {% page-ref page="windows/game.md" %}
 {% endtab %}
 
