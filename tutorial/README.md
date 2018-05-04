@@ -84,6 +84,7 @@
 {% tab title="浏览器" %}
 ## 下载
 
+* SwitchyOmega：[Chorme商店](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) —[本地](https://github.com/FelisCatus/SwitchyOmega/releases/download/v2.5.11/SwitchyOmega_Chromium.crx)；[ Firefox商店](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/)—[本地](https://github.com/FelisCatus/SwitchyOmega/releases/download/v2.5.11/proxy_switchyomega-2.5.11-an.fx.xpi)
 * 
 ##  使用教程
 
