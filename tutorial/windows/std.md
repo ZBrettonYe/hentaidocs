@@ -1,5 +1,5 @@
 ---
-description: 适合非游戏的用户使用；
+description: 标准版设置教程
 ---
 
 # 标准版
@@ -10,7 +10,7 @@ description: 适合非游戏的用户使用；
 * `软件版本：ShadowsocksR 最新版`
 * `设备要求：Windows PC / Tablet`
 
-打开 ShadowsocksR 客户端（可以在 墙洞.com 的「兼容软件」页面下载到客户端），然后右键点击托盘栏纸飞机图标，在「服务器」选项卡中选择「SSR 服务器订阅设置」。
+打开 ShadowsocksR 客户端，然后右键点击托盘栏纸飞机图标，在「服务器」选项卡中选择「SSR 服务器订阅设置」。
 
 ![](https://github.com/lhie1/Document/raw/master/.gitbook/assets/windows1.png)
 
@@ -22,7 +22,7 @@ description: 适合非游戏的用户使用；
 
 ![](https://github.com/lhie1/Document/raw/master/.gitbook/assets/ssr-windows-7.png)
 
-等待几秒后（具体时间取决于您的网络环境），您将会收到「服务器订阅更新成功」的通知消息，同时查看服务器列表也可以看到「墙洞」节点。
+等待几秒后（具体时间取决于您的网络环境），您将会收到「服务器订阅更新成功」的通知消息，同时查看服务器列表也可以看到节点。
 
 ![](https://github.com/lhie1/Document/raw/master/.gitbook/assets/windows4.png)
 
