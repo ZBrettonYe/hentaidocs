@@ -10,6 +10,10 @@ description: 标准版设置教程
 * `软件版本：ShadowsocksR 最新版`
 * `设备要求：Windows PC / Tablet`
 
+{% hint style="info" %}
+ XP默认并没有安装 .NET Framework v2.0和v4.0，需要手动安装，[v4.0下载](https://download.microsoft.com/download/1/B/E/1BE39E79-7E39-46A3-96FF-047F95396215/dotNetFx40_Full_setup.exe)+ [V4.0.3更新包](https://download.microsoft.com/download/1/B/E/1BE39E79-7E39-46A3-96FF-047F95396215/dotNetFx40_Full_setup.exe)
+{% endhint %}
+
 打开 ShadowsocksR 客户端，然后右键点击托盘栏纸飞机图标，在「服务器」选项卡中选择「SSR 服务器订阅设置」。
 
 ![](https://github.com/lhie1/Document/raw/master/.gitbook/assets/windows1.png)
