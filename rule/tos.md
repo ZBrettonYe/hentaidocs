@@ -1,3 +1,7 @@
+---
+description: Terms of service
+---
+
 # 用户条款
 
 最后更新：2018年5月6日 该服务条款是约束由[绅士瞭望塔](http://www.hentaiworld.cc/)的所有产品和服务，以下是条款和条件：  
