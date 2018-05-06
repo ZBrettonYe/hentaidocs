@@ -2,7 +2,7 @@
 
 * 文档中心
 * [使用教程](tutorial/README.md)
-  * [订阅地址](tutorial/sub_link.md)
+  * [设置信息](tutorial/sub_link.md)
   * [Windows](tutorial/windows/README.md)
     * [标准版](tutorial/windows/std.md)
     * 进阶版

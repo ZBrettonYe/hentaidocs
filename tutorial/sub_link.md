@@ -1,14 +1,20 @@
----
-description: 节点订阅服务：客户端可自动同步更新节点信息。
----
+# 设置信息
 
-# 订阅地址
-
-{% hint style="warning" %}
-请将**【 订阅地址】**当做账号密码一样妥善保管，请勿泄露给他人！
+{% hint style="danger" %}
+请将以下**信息**妥善保管，请勿泄露给他人！
 {% endhint %}
 
-## 获取位置
+## 订阅链接
 
-![](../.gitbook/assets/sublink.png)
+{% hint style="info" %}
+节点订阅：客户端可自动同步更新节点信息。
+{% endhint %}
+
+![](../.gitbook/assets/sublink%20%281%29.png)
+
+## 线路二维码
+
+![](../.gitbook/assets/qrcode.png)
+
+## 线路信息
 
