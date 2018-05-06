@@ -10,11 +10,17 @@
 节点订阅：客户端可自动同步更新节点信息。
 {% endhint %}
 
-![](../.gitbook/assets/sublink%20%281%29.png)
+![](../.gitbook/assets/sublink%20%282%29.png)
 
 ## 线路二维码
 
 ![](../.gitbook/assets/qrcode.png)
 
 ## 线路信息
+
+![](../.gitbook/assets/link.png)
+
+## 手动设置
+
+![](../.gitbook/assets/setting.png)
 
