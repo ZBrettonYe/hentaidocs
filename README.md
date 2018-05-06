@@ -6,5 +6,5 @@ description: 文档中心
 
 ![](.gitbook/assets/shui-yin.png)
 
-欢迎查阅绅士瞭望塔客户端使用教程
+本文档为[紳士遙望塔](http://www.hentaiworld.cc/)服务!
 
