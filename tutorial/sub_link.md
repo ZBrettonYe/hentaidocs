@@ -21,7 +21,7 @@
 
 #### 获取位置
 
-![](../.gitbook/assets/sublink%20%282%29.png)
+![](../.gitbook/assets/sublink%20%284%29.png)
 
 ### 单线路一键设置二维码
 
