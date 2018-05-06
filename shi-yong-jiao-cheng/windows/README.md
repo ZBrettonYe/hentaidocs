@@ -1,7 +1,3 @@
----
-description: windows客户端相关设置教程
----
-
 # Windows
 
 ##  下载
@@ -18,9 +14,5 @@ description: windows客户端相关设置教程
 
 ## 使用教程
 
-{% page-ref page="std.md" %}
-
-{% page-ref page="jin-jie-ban.md" %}
-
-{% page-ref page="game.md" %}
+{% page-ref page="biao-zhun-ban.md" %}
 
