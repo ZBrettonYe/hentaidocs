@@ -14,5 +14,5 @@
 
 ## 使用教程
 
-{% page-ref page="biao-zhun-ban.md" %}
+{% page-ref page="basic.md" %}
 

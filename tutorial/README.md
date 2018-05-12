@@ -18,7 +18,7 @@
 
 ## 使用教程
 
-{% page-ref page="windows/biao-zhun-ban.md" %}
+{% page-ref page="windows/basic.md" %}
 
 {% page-ref page="./" %}
 {% endtab %}

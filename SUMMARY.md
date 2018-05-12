@@ -4,10 +4,10 @@
 * 用户协议
   * [用户条款](rule/tos.md)
   * [使用条款](rule/aup.md)
-* [使用教程](shi-yong-jiao-cheng/README.md)
-  * [设置信息](shi-yong-jiao-cheng/she-zhi-xin-xi.md)
-  * [Windows](shi-yong-jiao-cheng/windows/README.md)
-    * [标准版](shi-yong-jiao-cheng/windows/biao-zhun-ban.md)
+* [使用教程](tutorial/README.md)
+  * [设置信息](tutorial/settinginfo.md)
+  * [Windows](tutorial/windows/README.md)
+    * [标准版](tutorial/windows/basic.md)
     * 进阶版
     * 游戏版
   * MacOS
