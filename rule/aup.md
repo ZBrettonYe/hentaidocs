@@ -61,9 +61,7 @@ description: Acceptable Use Policy 可接受使用策略
 您可以发送侵权通知到：   
 monkeyblack97@gmail.com  
   
-请不要通过代理发送信息或者发送其他任何信息。   
-  
-
+请不要通过代理发送信息或者发送其他任何信息。 
 
 ### 通知和移除程序
 
