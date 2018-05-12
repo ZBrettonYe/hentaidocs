@@ -4,7 +4,7 @@ description: 文档中心
 
 # 紳士瞭望塔
 
-![](.gitbook/assets/shui-yin.png)
+![](.gitbook/assets/logo_b.png)
 
-本文档为[紳士遙望塔](http://www.hentaiworld.cc/)服务!
+ 欢迎来到[紳士遙望塔](http://www.hentaiworld.cc/)文档中心!
 
