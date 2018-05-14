@@ -8,13 +8,13 @@
   * [设置信息](tutorial/settinginfo.md)
   * [Windows](tutorial/windows/README.md)
     * [标准版](tutorial/windows/basic.md)
-    * 进阶版
-    * 游戏版
-  * MacOS
-  * Android
-  * iOS
-  * Linux
-  * 路由器
-  * 浏览器插件
-* 问题&解决
+    * [进阶版](tutorial/windows/advance.md)
+    * [游戏版](tutorial/windows/game.md)
+  * [MacOS](tutorial/macos.md)
+  * [Android](tutorial/android.md)
+  * [iOS](tutorial/ios.md)
+  * [Linux](tutorial/linux.md)
+  * [路由器](tutorial/router.md)
+  * [浏览器插件](tutorial/browser.md)
+* [问题&解决](solutions.md)
 

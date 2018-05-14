@@ -20,7 +20,9 @@
 
 {% page-ref page="windows/basic.md" %}
 
-{% page-ref page="./" %}
+{% page-ref page="windows/advance.md" %}
+
+{% page-ref page="windows/game.md" %}
 {% endtab %}
 
 {% tab title="MacOS" %}
@@ -29,6 +31,8 @@
 * [下载地址](https://github.com/ZBrettonYe/SSR-Client/releases/download/1.0/ShadowsocksX-NG-R8.dmg)
 
 ##  使用教程
+
+{% page-ref page="macos.md" %}
 {% endtab %}
 
 {% tab title="Android" %}
@@ -37,6 +41,8 @@
 * [下载地址](https://github.com/ZBrettonYe/SSR-Client/releases/download/1.0/shadowsocksr.apk)
 
 ##  使用教程
+
+{% page-ref page="android.md" %}
 {% endtab %}
 
 {% tab title="iOS" %}
@@ -53,6 +59,8 @@
 * [下载地址](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)
 
 ##  使用教程
+
+{% page-ref page="ios.md" %}
 {% endtab %}
 
 {% tab title="Linux" %}
@@ -61,6 +69,8 @@
 
 
 ##  使用教程
+
+{% page-ref page="linux.md" %}
 {% endtab %}
 
 {% tab title="路由器" %}
@@ -69,14 +79,18 @@
 
 
 ##  使用教程
+
+{% page-ref page="router.md" %}
 {% endtab %}
 
 {% tab title="浏览器" %}
 ## 下载
 
 * SwitchyOmega：[Chorme商店](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) —[本地](https://github.com/FelisCatus/SwitchyOmega/releases/download/v2.5.11/SwitchyOmega_Chromium.crx)；[ Firefox商店](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/)—[本地](https://github.com/FelisCatus/SwitchyOmega/releases/download/v2.5.11/proxy_switchyomega-2.5.11-an.fx.xpi)
-* 
+
 ##  使用教程
+
+{% page-ref page="browser.md" %}
 {% endtab %}
 {% endtabs %}
 
