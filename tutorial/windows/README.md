@@ -16,3 +16,7 @@
 
 {% page-ref page="basic.md" %}
 
+{% page-ref page="advance.md" %}
+
+{% page-ref page="game.md" %}
+

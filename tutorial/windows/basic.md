@@ -2,9 +2,9 @@
 
 ## 要求
 
-* `系统要求：Windows XP 及以上`
-* `软件版本：ShadowsocksR 最新版`
-* `设备要求：Windows PC / Tablet`
+* 系统要求：`Windows XP 及更新版本`
+* 软件版本：`ShadowsocksR 标准版 4.9mod`
+* 设备要求：`Windows PC / Tablet`
 
 {% hint style="warning" %}
  XP默认并没有安装 .NET Framework v2.0和v4.0，需要手动安装，[v4.0下载](https://download.microsoft.com/download/1/B/E/1BE39E79-7E39-46A3-96FF-047F95396215/dotNetFx40_Full_setup.exe)+ [V4.0.3更新包](https://download.microsoft.com/download/1/B/E/1BE39E79-7E39-46A3-96FF-047F95396215/dotNetFx40_Full_setup.exe)
@@ -34,7 +34,7 @@
 
 ### 单节点一键设置
 
-#### 二维码
+#### 二维码&设置代码
 
  双击运行Windows标准版客户端，然后右键点击托盘栏纸飞机图标，
 
@@ -48,7 +48,7 @@
 
  双击运行Windows标准版客户端，然后双击托盘栏纸飞机图标
 
-出现以下界面，并一次输入/选择节点设置信息，最后点击保存。
+出现以下界面，并依次输入/选择节点设置信息，最后点击保存。
 
 ![](../../.gitbook/assets/windowsbasic_sub3.png)
 
