@@ -82,6 +82,10 @@ description: Android
 * 仅代理中国大陆地址
 * 自定义ACL文件
 
+ACL为自定义代理规则，使用前推荐先查阅
+
+{% page-ref page="acl.md" %}
+
 ### 运行
 
 点击界面上的被`划掉的飞机图标`运行
