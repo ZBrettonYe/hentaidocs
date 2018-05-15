@@ -10,11 +10,15 @@ description: Android
 * 软件版本：`v3.5.4-alpha`
 * 设备要求：`安卓手机 / 平板`
 
-{% hint style="danger" %}
-本教程需要用户先获得[**节点设置**](https://docs.hentaiworld.cc/tutorial/settinginfo)信息！
+## 节点添加
+
+{% hint style="info" %}
+进行此步骤前，您需要知道如何获取**节点信息**​
+
+{% page-ref page="./" %}
 {% endhint %}
 
-## 节点添加
+### 设置位置
 
 运行软件后，点击左上角`ShadowsocksR` logo，
 

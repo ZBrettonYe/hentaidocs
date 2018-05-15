@@ -10,17 +10,19 @@
 * 软件版本：`Shadowrocket 2.1.21`
 * 设备要求：`iPhone，iPad / iPod `
 
-{% hint style="danger" %}
-本教程需要用户先获得[**节点设置**](https://docs.hentaiworld.cc/tutorial/settinginfo)信息！
-{% endhint %}
+## 软件界面
 
 ![](../.gitbook/assets/ios.png)
-
-## 软件界面
 
 ![](../.gitbook/assets/ios2%20%281%29.png)
 
 ## 节点添加
+
+{% hint style="info" %}
+进行此步骤前，您需要知道如何获取**节点信息**​
+
+{% page-ref page="./" %}
+{% endhint %}
 
 ### 订阅链接
 

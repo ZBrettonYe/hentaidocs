@@ -6,15 +6,21 @@
 * 软件版本：`ShadowsocksR 标准版 4.9mod`
 * 设备要求：`Windows 电脑 / 平板`
 
+## 下载
+
 {% hint style="warning" %}
  XP默认并没有安装 .NET Framework v2.0和v4.0，需要手动安装，[v4.0下载](https://download.microsoft.com/download/1/B/E/1BE39E79-7E39-46A3-96FF-047F95396215/dotNetFx40_Full_setup.exe)+ [V4.0.3更新包](https://download.microsoft.com/download/1/B/E/1BE39E79-7E39-46A3-96FF-047F95396215/dotNetFx40_Full_setup.exe)
 {% endhint %}
 
-{% hint style="danger" %}
-本教程需要用户先获得[**节点设置**](https://docs.hentaiworld.cc/tutorial/settinginfo)信息！
-{% endhint %}
+{% page-ref page="./" %}
 
 ##  节点添加
+
+{% hint style="info" %}
+进行此步骤前，您需要知道如何获取**节点信息**
+
+{% page-ref page="../settinginfo.md" %}
+{% endhint %}
 
 ### 订阅链接
 
@@ -22,7 +28,7 @@
 
 ![](../../.gitbook/assets/windowsbasic_sub%20%281%29.png)
 
-在弹出的窗口中，点击 `Add` 按钮，将**订阅地址**粘贴于右侧的输入框中，点击「确定」
+在弹出的窗口中，点击 `Add` 按钮，将**订阅链接**粘贴于右侧的输入框中，点击「确定」
 
 ![](../../.gitbook/assets/windowsbasic_sub2.png)
 
