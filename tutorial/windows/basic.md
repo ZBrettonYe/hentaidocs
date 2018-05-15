@@ -4,7 +4,7 @@
 
 * 系统要求：`Windows XP 及更新版本`
 * 软件版本：`ShadowsocksR 标准版 4.9mod`
-* 设备要求：`Windows PC / Tablet`
+* 设备要求：`Windows 电脑 / 平板`
 
 {% hint style="warning" %}
  XP默认并没有安装 .NET Framework v2.0和v4.0，需要手动安装，[v4.0下载](https://download.microsoft.com/download/1/B/E/1BE39E79-7E39-46A3-96FF-047F95396215/dotNetFx40_Full_setup.exe)+ [V4.0.3更新包](https://download.microsoft.com/download/1/B/E/1BE39E79-7E39-46A3-96FF-047F95396215/dotNetFx40_Full_setup.exe)
@@ -78,7 +78,7 @@
 
 推荐：**GFWList**， 该PAC包含大部分被墙网址的代理规则；
 
-#### 代理规则
+### 代理规则
 
 根据`IP`来判断流量数据是代理还是直连。
 

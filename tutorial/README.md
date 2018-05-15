@@ -80,7 +80,7 @@
 
 ##  使用教程
 
-{% page-ref page="router.md" %}
+{% page-ref page="router/" %}
 {% endtab %}
 
 {% tab title="浏览器" %}
