@@ -53,7 +53,7 @@
 {% endhint %}
 
 {% hint style="warning" %}
-下方链接为 **美区AppStore **软件链接！iPhone请使用手机自带浏览器打开Safari
+下方链接为 **美区AppStore** 软件链接！iPhone请使用手机自带浏览器打开Safari
 {% endhint %}
 
 * [下载地址](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)

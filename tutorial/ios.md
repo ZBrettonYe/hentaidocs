@@ -8,7 +8,7 @@
 
 * 系统要求：`iOS 9.0 及更新版本`
 * 软件版本：`Shadowrocket 2.1.21`
-* 设备要求：`iPhone，iPad / iPod `
+* 设备要求：`iPhone，iPad / iPod` 
 
 ## 软件界面
 
@@ -58,7 +58,7 @@
 
 切换类型为 `ShadowsocksR`，
 
-获取**节点设置 **并按照设置输入/选择 各选项。
+获取**节点设置** 并按照设置输入/选择 各选项。
 
 ![](../.gitbook/assets/ios5.png)
 

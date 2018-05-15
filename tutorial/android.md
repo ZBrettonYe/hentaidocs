@@ -28,7 +28,7 @@ description: Android
 
 ![](../.gitbook/assets/android2%20%281%29.png)
 
-点击右下角 **（+） **号，打开节点添加列表。
+点击右下角 **（+）** 号，打开节点添加列表。
 
 ### 订阅链接
 
