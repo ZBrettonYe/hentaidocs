@@ -14,35 +14,39 @@ description: Asuswrt-merlin
 
 Asuswrt是华硕公司为他的路由器所开发的固件。Asuswrt-merlin是一个对Asuswrt固件二次开发进行各种改进和修正的项目。作者： Eric Sauvageau，官网：[链接](https://asuswrt.lostrealm.ca)。
 
-### 要求
+### 设备要求
 
 梅玲固件存在2个分支：
 
 * 原版（稳定）梅玲固件（380.xxx版本）
-* 新一代（最新）梅玲固件\(382.xx以及更新\)
+* 新一代（最新）梅玲固件\(382.xxx以及更新版本\)
 
 不同版本支持不同型号的路由器，
 
-稳定版梅玲固件\(380.xx\) 支持:
+{% hint style="danger" %}
+开始前，请先确保您的路由器为支持型号
+{% endhint %}
+
+稳定版梅玲固件（380.xxx）支持型号：
 
 * RT-N66U
 * RT-AC66U
 * RT-AC56U
-* RT-AC66U\_B1 \(use the RT-AC68U firmware\)
-* RT-AC68U, RT-AC68P, RT-AC68UF \(including HW revision C1 and E1\)
-* RT-AC1900 & RT-AC1900P \(use the RT-AC68U firmware\)
+* RT-AC66U\_B1 \(使用RT-AC68U 防火墙\)
+* RT-AC68U, RT-AC68P, RT-AC68UF \(包含HW 调整的C1 和 E1\)
+* RT-AC1900 & RT-AC1900P \(使用 RT-AC68U 防火墙\)
 * RT-AC3200
 * RT-AC87U
 * RT-AC88U
 * RT-AC3100
 * RT-AC5300
 
-Devices supported on the new generation/current branch \(382.xx and newer\):
+最新版本梅玲固件（382.xxx及更新版本）支持型号：
 
 * RT-AC56U
-* RT-AC66U\_B1 \(use the RT-AC68U firmware\)
-* RT-AC68U, RT-AC68P, RT-AC68UF \(including HW revision C1 and E1\)
-* RT-AC1900 & RT-AC1900P \(use the RT-AC68U firmware\)
+* RT-AC66U\_B1 \(使用 RT-AC68U 防火墙\)
+* RT-AC68U, RT-AC68P, RT-AC68UF \(包含HW 调整的C1 和 E1\)
+* RT-AC1900 & RT-AC1900P \(使用 RT-AC68U 防火墙\)
 * RT-AC3200
 * RT-AC87U
 * RT-AC88U
@@ -50,20 +54,13 @@ Devices supported on the new generation/current branch \(382.xx and newer\):
 * RT-AC5300
 * RT-AC86U
 
-No longer supported:
+不再支持型号：
 
 * RT-N16
 
-NOTE: all the "R" versions \(for example RT-N66R\) are the same as their "U" counterparts, they are just different packages aimed at large retailers. The firmware is 100% compatible with both U and R versions of the routers. Same with the "W" variants that are simply white.
+注：所有“R”型号的 \(比如 RT-N66R\) 和"U" 一样, 他们只是包装不同/销售商问题. 防火墙在U和R上是一样的.  "W" 也是一样处理。
 
-固件支持以下的路由型号：  
-RT-AC56U  
-RT-N66U  
-RT-AC66U  
-RT-AC68U  
-RT-AC68P  
-RT-AC87U  
-RT-AC3200  
+  
 源码来源于[https://github.com/RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin)**2、Asuswrt-merlin的优势：**Merlin固件拥有更多的功能，由于第三方不断维护代码，各种新功能也在不断增加。Merlin固件的升级并不需要反复的操作过程，方法与官方固件的升级相同，有很好的硬件软件兼容性。继承了Asuswrt官方固件优秀的交互界面。Koolshare论坛所分享的固件大多是基于Merlin代码再次改进，增加适合国内使用的功能。  
 **二、固件刷入  
 1、下载固件**见本版置顶帖**2、上传并刷写固件\(**如你是R7K或R6300V2用户，请参考这两个贴（因为网件的原版固件无法直接刷，需要过度固件）[R6300 V2](http://koolshare.cn/thread-3860-1-1.html)[R7000](http://koolshare.cn/thread-4451-1-1.html)\*迅雷路由可通过刷写CFE使用AC56U固件，刷写教程见[此链接](https://amefs.net/archives/94.html)**）**  
