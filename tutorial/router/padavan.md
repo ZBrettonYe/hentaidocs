@@ -1,6 +1,4 @@
-# 华硕-Padavan固件
+# Padavan固件
 
-## 下载
-
-下载链接：[https://bitbucket.org/padavan/rt-n56u/downloads/](https://bitbucket.org/padavan/rt-n56u/downloads/)
+[http://www.right.com.cn/forum/thread-161324-1-1.html](http://www.right.com.cn/forum/thread-161324-1-1.html)
 

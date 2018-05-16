@@ -16,7 +16,7 @@
   * [Linux](tutorial/linux.md)
   * [路由器](tutorial/router/README.md)
     * [华硕-梅林固件](tutorial/router/merlin.md)
-    * [华硕-Padavan固件](tutorial/router/padavan.md)
+    * [Padavan固件](tutorial/router/padavan.md)
   * [浏览器插件](tutorial/browser.md)
   * ACL自定义规则
 * [问题&解决](solutions.md)
