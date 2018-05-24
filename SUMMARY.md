@@ -1,9 +1,6 @@
 # Table of contents
 
 * [紳士瞭望塔](README.md)
-* 用户协议
-  * [用户条款](rule/tos.md)
-  * [使用条款](rule/aup.md)
 * [使用教程](tutorial/README.md)
   * [设置信息](tutorial/settinginfo.md)
   * [Windows](tutorial/windows/README.md)
@@ -20,4 +17,7 @@
   * [浏览器插件](tutorial/browser.md)
   * ACL自定义规则
 * [问题&解决](solutions.md)
+* 用户协议
+  * [用户条款](rule/tos.md)
+  * [使用条款](rule/aup.md)
 
