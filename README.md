@@ -19,14 +19,14 @@ description: 文档中心
 #### 二丶节点设置信息获取
 
 {% hint style="info" %}
-节点设置信息只要知道一种就好了！
+选择其中一种方式进行节点设置即可！
 {% endhint %}
 
 {% page-ref page="tutorial/settinginfo.md" %}
 
-#### 三丶对应客户端教程
+#### 三丶各客户端对应教程
 
-个人电脑
+电脑
 
 * Windows
 
@@ -50,7 +50,7 @@ description: 文档中心
 
   {% page-ref page="tutorial/ios.md" %}
 
-其他
+其他设备
 
 * 路由器
 
