@@ -15,9 +15,9 @@
     * [华硕-梅林固件](tutorial/router/merlin.md)
     * [Padavan固件](tutorial/router/padavan.md)
   * [浏览器插件](tutorial/browser.md)
-  * ACL自定义规则
+  * [ACL自定义规则](tutorial/acl.md)
 * [问题&解决](solutions.md)
-* 用户协议
+* [用户协议](rule/README.md)
   * [用户条款](rule/tos.md)
   * [使用条款](rule/aup.md)
 
