@@ -6,7 +6,7 @@ description: 文档中心
 
 ![](.gitbook/assets/logo_b.png)
 
- 欢迎来到[紳士遙望塔](http://www.hentaiworld.cc/)文档中心!
+ 欢迎来到[紳士遙望塔](https://www.otakuyun.com/)文档中心!
 
 ## 目录
 

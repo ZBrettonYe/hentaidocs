@@ -4,7 +4,7 @@
 请将以下**信息**妥善保管，请勿泄露给他人！
 {% endhint %}
 
-> 获取需要前往绅士瞭望塔[用户中心](http://ssr.hentaiworld.cc/login)
+> 获取需要前往绅士瞭望塔[用户中心](https://ssr.otakuyun.com/login)
 
 ## 订阅链接（推荐）
 
