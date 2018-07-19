@@ -9,7 +9,7 @@
 * 标准版：[下载链接](https://github.com/ZBrettonYe/SSR-Client/releases/download/1.0/ShadowsocksR-win.exe) **（推荐使用本客户端）**
 * 进阶版：[下载链接](https://github.com/ZBrettonYe/SSR-Client/releases/download/1.1/SocksCap64-setup-4.7.exe)
 * 游戏版：[下载链接](https://github.com/ZBrettonYe/SSR-Client/releases/download/1.1/SSTAP.exe)
-* 合集：[百度云](https://pan.baidu.com/s/1hsILEtQ6Ep0e01S0PQdmpQ)
+* 合集：[百度云](https://pan.baidu.com/s/1dRxCM_0KCr3pJP5iWNDsvA)
 
 > 标准版：适合轻度科学上网，或者浏览器为基础的用户使用 ；此版本提供**智能代理**以及**全局代理**；此版本为官方的私人简化版本，继承大部分4.9版本的功能
 >
@@ -30,7 +30,7 @@
 ## 下载
 
 * [下载地址](https://github.com/ZBrettonYe/SSR-Client/releases/download/1.1/ShadowsocksX-NG-R8.dmg)
-* [百度云](https://pan.baidu.com/s/1hsILEtQ6Ep0e01S0PQdmpQ)
+* [百度云](https://pan.baidu.com/s/1dRxCM_0KCr3pJP5iWNDsvA)
 
 ##  使用教程
 
@@ -41,7 +41,7 @@
 ## 下载
 
 * [下载地址](https://github.com/ZBrettonYe/SSR-Client/releases/download/1.1/shadowsocksr.apk)
-* [百度云](https://pan.baidu.com/s/1hsILEtQ6Ep0e01S0PQdmpQ)​
+* [百度云](https://pan.baidu.com/s/1dRxCM_0KCr3pJP5iWNDsvA)​
 
 ##  使用教程
 
@@ -56,7 +56,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-**已付费**用户可以无偿获取客户端的下载账号；
+**已付费**用户可以**无偿**获取客户端的下载账号；
 
 \(请在[**用户中心**](http://ssr.hentaiworld.cc/)的公告中获取售后群信息并加群，账号在将会在**群公告**中标识！）
 {% endhint %}
