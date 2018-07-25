@@ -3,7 +3,6 @@
 ##  下载
 
 * 标准版：[下载链接](https://github.com/ZBrettonYe/SSR-Client/releases/download/1.0/ShadowsocksR-win.exe) **（推荐使用本客户端）**
-* 进阶版：[下载链接](https://github.com/ZBrettonYe/SSR-Client/releases/download/1.1/SocksCap64-setup-4.7.exe)​
 * 游戏版：[下载链接](https://github.com/ZBrettonYe/SSR-Client/releases/download/1.1/SSTAP.exe)​
 * 合集：[百度云](https://pan.baidu.com/s/1dRxCM_0KCr3pJP5iWNDsvA)​
 
@@ -16,8 +15,6 @@
 ## 使用教程
 
 {% page-ref page="basic.md" %}
-
-{% page-ref page="advance.md" %}
 
 {% page-ref page="game.md" %}
 

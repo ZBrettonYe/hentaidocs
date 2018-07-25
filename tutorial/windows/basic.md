@@ -1,6 +1,6 @@
 # 标准版
 
-## 要求
+## 信息/要求
 
 * 系统要求：`Windows XP 及更新版本`
 * 软件版本：`ShadowsocksR 标准版 4.9mod`
@@ -12,7 +12,7 @@
  XP默认并没有安装 .NET Framework v2.0和v4.0，需要手动安装，[v4.0下载](https://download.microsoft.com/download/1/B/E/1BE39E79-7E39-46A3-96FF-047F95396215/dotNetFx40_Full_setup.exe)+ [V4.0.3更新包](https://download.microsoft.com/download/1/B/E/1BE39E79-7E39-46A3-96FF-047F95396215/dotNetFx40_Full_setup.exe)
 {% endhint %}
 
-{% page-ref page="./" %}
+ [本地下载](https://github.com/ZBrettonYe/SSR-Client/releases/download/1.0/ShadowsocksR-win.exe) \|  [百度云](https://pan.baidu.com/s/1dRxCM_0KCr3pJP5iWNDsvA)
 
 ##  添加节点
 

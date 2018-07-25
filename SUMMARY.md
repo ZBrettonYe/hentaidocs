@@ -5,7 +5,6 @@
   * [设置信息](tutorial/settinginfo.md)
   * [Windows](tutorial/windows/README.md)
     * [标准版](tutorial/windows/basic.md)
-    * [进阶版](tutorial/windows/advance.md)
     * [游戏版](tutorial/windows/game.md)
   * [MacOS](tutorial/macos.md)
   * [安卓](tutorial/android.md)
